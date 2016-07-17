@@ -63,10 +63,6 @@
       };
       throw new WorkerException('Worker error.');
     };
-
-
-    toggleButtonsAbledness();
-
   };
 
   function revertImage() {
